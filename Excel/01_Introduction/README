@@ -1,0 +1,42 @@
+# Excel Introduction Practice
+
+## Objective
+
+Learn the basic Excel interface and understand how workbooks,
+worksheets, rows, columns and cells are organized.
+
+## Practical Exercise
+
+Created a Pinterest Analytics workbook containing:
+
+- Raw Pinterest performance data
+- Practice worksheet
+- Notes worksheet
+
+## Concepts Practiced
+
+- Workbook
+- Worksheet
+- Rows
+- Columns
+- Cells
+- Cell references
+- Data entry
+- Basic Excel navigation
+- Saving and reopening workbooks
+
+## Dataset
+
+The practice dataset represents Pinterest content performance,
+including:
+
+- Pin
+- Category
+- Impressions
+- Engagements
+- Saves
+- Outbound Clicks
+
+## File
+
+`Pinterest_Excel_Basics.xlsx`

@@ -1,0 +1,53 @@
+# Topic 11 — Expense Tracker
+
+## Objective
+
+Create a practical Excel expense tracker and analyze spending using Excel formulas and functions.
+
+## Skills Practiced
+
+- Data entry
+- Excel Tables
+- Date formatting
+- Currency formatting
+- SUM
+- AVERAGE
+- MAX
+- MIN
+- COUNT
+- SUMIF
+- INDEX
+- MATCH
+- Basic business analysis
+
+## Dataset
+
+The dataset contains personal-style expense records with:
+
+- Date
+- Category
+- Description
+- Payment Method
+- Amount
+- Month
+
+## Analysis Performed
+
+The workbook calculates:
+
+- Total Expenses
+- Average Expense
+- Highest Expense
+- Lowest Expense
+- Number of Expenses
+- Category-wise Expenses
+- Payment-method Expenses
+- Most Expensive Category
+
+## Key Learning
+
+Excel functions can be combined to transform raw expense data into useful business insights.
+
+## Workbook
+
+`Pinterest_Expense_Tracker.xlsx`

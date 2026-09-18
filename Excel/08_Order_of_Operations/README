@@ -1,0 +1,63 @@
+# Topic 8 — Order of Operations
+
+## Objective
+
+Learn how Excel evaluates mathematical expressions using the correct order of operations.
+
+## Skills Practiced
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Parentheses
+- Percentages
+- Combining multiple operators
+- Understanding calculation order
+
+## Order of Operations
+
+Excel generally follows:
+
+1. Parentheses
+2. Exponents
+3. Multiplication and Division
+4. Addition and Subtraction
+
+## Business Example
+
+A Pinterest affiliate-product dataset was used to calculate:
+
+- Total Price
+- Discount Amount
+- Price After Discount
+- Tax Amount
+- Final Price
+
+## Example
+
+Without parentheses:
+
+`=10+5*2`
+
+Result:
+
+`20`
+
+With parentheses:
+
+`=(10+5)*2`
+
+Result:
+
+`30`
+
+## Key Learning
+
+Parentheses can change the order in which Excel performs calculations.
+
+Using parentheses makes complex formulas easier to understand and reduces calculation errors.
+
+## File
+
+`Pinterest_Order_of_Operations_Practice.xlsx`

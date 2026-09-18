@@ -1,0 +1,50 @@
+# Topic 7 — Absolute References
+
+## Objective
+
+Learn how to use absolute and relative cell references in Excel calculations.
+
+## Skills Practiced
+
+- Relative references
+- Absolute references
+- `$` symbol
+- F4 shortcut
+- Copying formulas
+- Locking rows and columns
+- Using fixed assumptions in calculations
+
+## Business Example
+
+A Pinterest affiliate-product dataset was used to calculate:
+
+- Discount Amount
+- Tax Amount
+- Final Price
+- Commission
+
+Fixed rates such as discount, tax, and commission were stored in separate cells and referenced using absolute references.
+
+## Key Concept
+
+A relative reference such as:
+
+`G2`
+
+changes when a formula is copied.
+
+An absolute reference such as:
+
+`$G$2`
+
+remains fixed when a formula is copied.
+
+## Why Absolute References Matter
+
+Absolute references allow a single assumption or rate to be used across many calculations.
+
+For example, changing the discount rate from 10% to 15% automatically updates all related calculations.
+
+## File
+
+`Pinterest_Absolute_References_Practice.xlsx`
