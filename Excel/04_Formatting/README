@@ -1,0 +1,49 @@
+# Topic 4 — Formatting
+
+## Objective
+
+Practice Excel formatting techniques using a Pinterest Analytics dataset.
+
+## Skills Practiced
+
+- Changed font style and size
+- Applied bold and font colors
+- Applied cell background colors
+- Adjusted column widths
+- Adjusted row heights
+- Applied borders
+- Practiced horizontal alignment
+- Practiced vertical alignment
+- Used Wrap Text
+- Used Merge & Center for a worksheet title
+- Used Format Painter
+- Practiced Undo and Redo
+
+## Project
+
+The practice workbook contains Pinterest Pin performance data including:
+
+- Date
+- Pin Title
+- Category
+- Impressions
+- Engagements
+- Saves
+- Outbound Clicks
+
+## Formatting Principles
+
+The worksheet was formatted to improve:
+
+- Readability
+- Organization
+- Data visibility
+- Professional presentation
+
+## Key Learning
+
+Excel formatting should make data easier to understand without unnecessarily changing the underlying data.
+
+## File
+
+`Pinterest_Formatting_Practice.xlsx`

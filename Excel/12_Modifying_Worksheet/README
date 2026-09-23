@@ -1,0 +1,40 @@
+# Topic 12 — Modifying Worksheet
+
+## Objective
+
+Learn how to modify and manage an Excel worksheet while preserving the original dataset.
+
+## Skills Practiced
+
+- Copying data
+- Inserting rows
+- Inserting columns
+- Deleting rows
+- Deleting columns
+- Moving columns
+- Renaming worksheets
+- Copying worksheets
+- Hiding and unhiding columns
+- Adjusting row height
+- Adjusting column width
+- Find and Replace
+
+## Dataset
+
+A Pinterest product dataset was used to practice worksheet modification.
+
+## Original vs Modified Data
+
+The `Original_Data` sheet was kept unchanged.
+
+A separate `Modified_Product_Data` sheet was used for practicing worksheet modifications.
+
+## Key Learning
+
+Keeping an original copy of the data is important before making structural changes.
+
+Excel provides tools to insert, delete, move, hide, copy, and modify worksheet elements without rebuilding the entire dataset.
+
+## File
+
+`Pinterest_Modifying_Worksheet_Practice.xlsx`

@@ -1,0 +1,51 @@
+# Topic 9 — Excel Functions
+
+## Objective
+
+Learn and practice common Excel functions used in data analysis.
+
+## Functions Practiced
+
+- SUM
+- AVERAGE
+- MAX
+- MIN
+- COUNT
+- COUNTA
+- ROUND
+
+## Dataset
+
+A Pinterest affiliate-product dataset was used for practice.
+
+The dataset contains:
+
+- Product
+- Category
+- Price
+- Quantity
+- Impressions
+- Clicks
+- Saves
+
+## Business KPIs
+
+Excel functions were used to calculate:
+
+- Total Impressions
+- Average Impressions
+- Highest Impressions
+- Lowest Impressions
+- Total Clicks
+- Total Saves
+- Number of Products
+
+## Key Learning
+
+Excel functions make it easier to summarize and analyze large datasets.
+
+Functions such as SUM, AVERAGE, MAX, MIN, COUNT and COUNTA are fundamental tools for data analysis.
+
+## File
+
+`Pinterest_Excel_Functions_Practice.xlsx`

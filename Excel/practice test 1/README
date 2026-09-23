@@ -1,0 +1,175 @@
+# Pinterest Analytics — Excel Practice Test 1
+
+## 📌 Project Overview
+
+This project is an Excel-based Pinterest Analytics practice test created to apply fundamental Excel and data analysis concepts using Pinterest pin performance data.
+
+The objective was to practice data entry, data cleaning, calculations, KPI analysis, interpretation, cross-sheet references, conditional formatting, sorting/filtering, and basic dashboard creation.
+
+---
+
+## 📁 Workbook
+
+**File:** `Pinterest_Practice_Test_1.xlsx`
+
+### Sheets
+
+1. **README** — Project documentation
+2. **Raw_Data** — Original Pinterest data
+3. **Cleaned_Data** — Cleaned and organized dataset
+4. **Calculations** — Excel calculations and KPIs
+5. **KPI_Analysis** — KPI interpretation and business findings
+6. **Dashboard** — Visual summary of Pinterest performance
+
+---
+
+## 📊 Dataset
+
+The dataset contains Pinterest pin performance information.
+
+### Columns
+
+* Pinterest Link
+* Impressions
+* Engagement
+* Pin Clicks
+* Outbound Clicks
+* Saves
+
+### Dataset Size
+
+* **19 pins analyzed**
+
+---
+
+## 📈 Key KPIs
+
+| KPI                         | Result |
+| --------------------------- | -----: |
+| Total Impressions           |    279 |
+| Total Engagement            |      3 |
+| Total Pin Clicks            |      3 |
+| Total Outbound Clicks       |      0 |
+| Total Saves                 |      0 |
+| Engagement Rate             |  1.08% |
+| Pin Click Rate              |  1.08% |
+| Outbound Click Rate         |  0.00% |
+| Average Impressions per Pin |  14.68 |
+| Highest Impressions         |     96 |
+| Lowest Impressions          |      1 |
+| Number of Pins              |     19 |
+
+---
+
+## 🔍 Key Findings
+
+* The highest-performing pin received **96 impressions**.
+* The dataset generated **279 total impressions** across 19 pins.
+* The average impressions per pin were **14.68**.
+* Total engagement was **3**, resulting in an engagement rate of **1.08%**.
+* There were **3 pin clicks**, resulting in a pin click rate of **1.08%**.
+* There were **0 outbound clicks**, resulting in an outbound click rate of **0.00%**.
+* No sales conclusions were made because sales/revenue data was not included in the dataset.
+
+---
+
+## 🧹 Data Cleaning
+
+The dataset was cleaned before analysis.
+
+Steps performed included:
+
+* Removed an unnecessary duplicate Pinterest Link column.
+* Removed an invalid record containing a negative impression value.
+* Checked the dataset for consistency.
+* Organized the cleaned data into a structured table.
+* Verified the number of records before performing calculations.
+
+---
+
+## 🧮 Excel Functions & Concepts Practiced
+
+### Basic Functions
+
+* `SUM`
+* `AVERAGE`
+* `MAX`
+* `MIN`
+* `COUNTA`
+
+### Calculations
+
+* Total impressions
+* Total engagement
+* Total pin clicks
+* Total outbound clicks
+* Average impressions
+* Engagement rate
+* Pin click rate
+* Outbound click rate
+
+### Other Excel Skills
+
+* Workbooks and worksheets
+* Data entry
+* Headers
+* Cell formatting
+* Absolute references
+* Order of operations
+* Sorting
+* Filtering
+* Conditional formatting
+* Cross-sheet references
+* KPI analysis
+* KPI interpretation
+* Basic dashboard creation
+* Chart creation
+
+---
+
+## 📊 Dashboard
+
+The `Dashboard` sheet provides a visual summary of the Pinterest data.
+
+It includes:
+
+* Total Impressions
+* Total Engagement
+* Engagement Rate
+* Pin Click Rate
+* Outbound Clicks
+* Number of Pins
+* Average Impressions
+* Highest Impressions
+* Top 5 Pins by Impressions chart
+
+---
+
+## 🎯 Learning Objective
+
+This practice test was designed to demonstrate the ability to:
+
+1. Enter and organize data in Excel.
+2. Clean an imperfect dataset.
+3. Apply Excel functions to calculate KPIs.
+4. Calculate basic performance rates.
+5. Interpret analytical results.
+6. Connect information across worksheets.
+7. Create a simple analytical dashboard.
+8. Present findings using a chart.
+
+---
+
+## 🛠️ Tools Used
+
+* Microsoft Excel
+* Pinterest Analytics data
+* GitHub
+
+---
+
+## 📌 Portfolio Context
+
+This practice project is part of my ongoing **Data Analytics learning portfolio**, where I am building practical Excel projects using real-world-style datasets.
+
+The project demonstrates my foundational skills in **Excel, data cleaning, KPI analysis, data interpretation, and dashboard creation**.

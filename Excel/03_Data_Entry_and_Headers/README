@@ -1,0 +1,68 @@
+# Topic 3 — Data Entry and Headers
+
+## Objective
+
+Practice entering and organizing structured data in Excel using a practical Pinterest Analytics dataset.
+
+## Skills Practiced
+
+- Entered data into Excel cells
+- Edited existing cell values
+- Deleted and re-entered data
+- Used Enter and Tab for data entry
+- Created meaningful column headers
+- Organized data into rows and columns
+- Practiced structured dataset creation
+- Applied basic header formatting
+- Created a Pinterest Analytics dataset
+
+## Dataset Structure
+
+The dataset contains Pinterest performance data with the following columns:
+
+| Column | Description |
+|---|---|
+| Date | Date the Pin was published |
+| Pin_Title | Title of the Pinterest Pin |
+| Category | Product/content category |
+| Impressions | Number of times the Pin was shown |
+| Engagements | Number of interactions |
+| Saves | Number of times the Pin was saved |
+| Outbound_Clicks | Number of clicks leading outside Pinterest |
+
+## Dataset
+
+The practice dataset contains 15 Pinterest Pin records.
+
+Example categories include:
+
+- Lunch Box
+- Storage
+- Kitchen Organization
+- Beauty
+- Home Gadget
+- Handbag
+
+## Key Learning
+
+A well-structured dataset should have:
+
+- One variable per column
+- One record per row
+- Clear and meaningful column headers
+- Consistent data entry
+
+## Practical Application
+
+This dataset will be used in later Excel topics for:
+
+- Calculations
+- Functions
+- Sorting and filtering
+- Conditional formatting
+- Data analysis
+- Dashboard creation
+
+## File
+
+`Pinterest_Data_Entry_and_Headers.xlsx`s

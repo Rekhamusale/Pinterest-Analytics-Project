@@ -1,0 +1,53 @@
+# Topic 2 — Workbooks and Worksheets
+
+## Objective
+
+Learn how to create, organize, manage, and navigate Excel workbooks and worksheets using a practical Pinterest Analytics project.
+
+## Skills Practiced
+
+* Created a new Excel workbook
+* Understood the difference between a workbook and worksheet
+* Added worksheets
+* Renamed worksheets
+* Moved and reordered worksheets
+* Copied worksheets
+* Deleted worksheets
+* Changed worksheet tab colors
+* Hid and unhid worksheets
+* Created a professional workbook structure
+* Added documentation using a README worksheet
+
+## Project Workbook
+
+**File:** `Pinterest_Workbooks_Worksheets.xlsx`
+
+### Workbook Structure
+
+| Worksheet | Purpose                                     |
+| --------- | ------------------------------------------- |
+| README    | Explains the project and workbook structure |
+| Raw_Data  | Stores original Pinterest analytics data    |
+| Analysis  | Used for calculations and analysis          |
+| Dashboard | Used for presenting key insights visually   |
+
+## Final Structure
+
+```text
+Pinterest_Workbooks_Worksheets.xlsx
+│
+├── README
+├── Raw_Data
+├── Analysis
+└── Dashboard
+```
+
+## Key Learning
+
+A **workbook** is the complete Excel file, while a **worksheet** is an individual sheet inside the workbook.
+
+This exercise helped me understand how to organize an Excel workbook professionally for data analysis projects.
+
+## Practical Application
+
+The workbook structure will be used as the foundation for future Pinterest Analytics exercises, where raw data will be transformed into analysis and dashboards.

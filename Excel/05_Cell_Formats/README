@@ -1,0 +1,57 @@
+# Topic 5 — Cell Formats
+
+## Objective
+
+Practice Excel cell formatting using a Pinterest Analytics dataset.
+
+## Skills Practiced
+
+- Date formatting
+- Number formatting
+- Decimal places
+- Percentage formatting
+- Currency formatting
+- Text formatting
+- Date and time formatting
+- Format Cells dialog
+- Understanding how Excel displays underlying values
+
+## Dataset
+
+The dataset contains Pinterest performance information:
+
+- Date
+- Pin Title
+- Category
+- Impressions
+- Engagements
+- Saves
+- Outbound Clicks
+- CTR
+- Affiliate Revenue
+
+## Formatting Applied
+
+| Data | Format |
+|---|---|
+| Date | dd-mm-yyyy |
+| Impressions | Number, 0 decimals |
+| Engagements | Number, 0 decimals |
+| Saves | Number, 0 decimals |
+| Outbound Clicks | Number, 0 decimals |
+| CTR | Percentage, 2 decimals |
+| Affiliate Revenue | Indian Rupee currency |
+
+## Key Learning
+
+Cell formatting changes how data is displayed without necessarily changing the underlying value.
+
+Correct formatting improves readability and helps communicate analytical results accurately.
+
+## Practical Application
+
+These formatting skills will be used in later Excel exercises involving calculations, functions, analysis, and dashboards.
+
+## File
+
+`Pinterest_Cell_Formats_Practice.xlsx`
