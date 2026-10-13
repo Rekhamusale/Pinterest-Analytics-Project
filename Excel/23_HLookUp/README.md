@@ -8,7 +8,7 @@ This project demonstrates how to use the HLOOKUP function in Microsoft Excel to 
 - Search for a Pinterest pin name in the first row.
 - Retrieve Category, Impressions, and Engagement.
 - Use exact-match lookup.
-- Handle missing values using IFERROR.
+- Handle missing values using IFERROR
 
 ## Workbook Details
 **File Name:** `Pinterest_HLOOKUP_Practice.xlsx`
